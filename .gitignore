@@ -4,3 +4,4 @@ config.js
 *.log
 .idea/
 npm-debug.log
+config.js
